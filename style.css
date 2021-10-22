@@ -42,13 +42,13 @@
       .avatar > img{
         width: 10rem;
         height: 11.5rem;
-        object-fit: cover;/*imagem adapta as larguras, o cover cobre todo o espaçõ*/
+        object-fit: cover;
 
         clip-path: polygon(50% 0, 100% 25%, 100% 75%, 50% 100%, 0 75%, 0 25%);
       }
 
       .avatar span{
-        position: absolute; /**cria niveis**/
+        position: absolute;
         top: -15px;
         z-index: 1;
       }
@@ -84,7 +84,7 @@
         list-style: none;
         padding: 0;
 
-        display: flex; /*caixa uma ao lado da outra no eixo x(main)*/
+        display: flex;
         gap: 0.5rem;
 
         justify-content: center;

@@ -4,7 +4,7 @@
       youtube:'channel/UCRkckzeyq9wt2pAjGfUugPA',
       facebook: 'grazieledaianasenade.sousa',
       instagram: 'grazi_sena_26',
-      twitter: 'maykbrito'
+      twitter: 'twitter'
     }
 
     function changeSocialMediaLinks(){

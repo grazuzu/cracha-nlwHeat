@@ -1,7 +1,7 @@
 
     const LinksSocialMedia = {
       github: 'grazuzu',
-      youtube:'UCRkckzeyq9wt2pAjGfUugPA',
+      youtube:'channel/UCRkckzeyq9wt2pAjGfUugPA',
       facebook: 'grazieledaianasenade.sousa',
       instagram: 'grazi_sena_26',
       twitter: 'maykbrito'

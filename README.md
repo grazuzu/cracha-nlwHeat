@@ -11,12 +11,10 @@ Virtual badge created on the Origin track of NLW Heat.
   <a href="#-licença">Licença</a>
 </p>
 
-<div style="display: inline_block"><br>
-  <img alt="virtual-badge" src="/images/perfil.png" width="100%" style="max-width: 100%;">
-  
-
-  
-  
+<div align="center">
+  <img src="/images/perfil.png" alt="virtual-badge">
+</div>
+   
   
   
   

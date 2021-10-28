@@ -18,7 +18,7 @@ Virtual badge created on the Origin track of NLW Heat.
   
   
   
-## 🖥️ Tecnologias 
+## 💻 Tecnologias 
 
 O projeto utilizou as seguintes tecnologias:
   
